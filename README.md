@@ -1,1 +1,1 @@
-NumPy tutorial for beginner
+Python-libraries tutorial for beginner
